@@ -1,4 +1,4 @@
--  Hi, I’m Raghav,computer eng student at University Of Toronto
+-  Hi, I’m Raghav,Computer Engineering student at University Of Toronto
 -  I’m interested in Machine Learning, Fullstack Development and Blockchain
 -  I’m currently learning reinforcement learning.
 -  I’m looking to collaborate on any AI/Fullstack/Blockchain projects
